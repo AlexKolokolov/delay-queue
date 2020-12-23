@@ -1,5 +1,5 @@
 {
-  "name": "delay-queue",
+  "name": "@alkolo/delay-queue",
   "version": "1.0.0",
   "description": "Delays tasks processing",
   "main": "index.js",
