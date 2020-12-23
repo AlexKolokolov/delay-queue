@@ -1,0 +1,16 @@
+{
+  "name": "delay-queue",
+  "version": "1.0.0",
+  "description": "Delays tasks processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "delay",
+    "task",
+    "job"
+  ],
+  "author": "Alex Kolokolov",
+  "license": "ISC"
+}
