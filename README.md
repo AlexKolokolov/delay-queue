@@ -2,6 +2,8 @@
 
 [![npm (scoped)](https://img.shields.io/npm/v/@alkolo/delay-queue.svg)](https://github.com/AlexKolokolov/delay-queue)
 
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@alkolo/delay-queue.svg)](https://github.com/AlexKolokolov/delay-queue)
+
 Executes tasks with fixed delay between them.
 
 ## Install
