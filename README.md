@@ -20,7 +20,7 @@ None.
 
 ```js
 const DelayQueue = require("@alkolo/delay-queue");
-const queue = new DelayQueue(dalay);
+const queue = new DelayQueue(delay);
 queue.addToQueue(task, doFirst);
 ```
 where 
